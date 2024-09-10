@@ -1,0 +1,25 @@
+{
+  "name": "l1",
+  "version": "1.0.0",
+  "description": "L!",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshirr3/L1.git"
+  },
+  "author": "Mohamed Shire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshirr3/L1/issues"
+  },
+  "homepage": "https://github.com/mshirr3/L1#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "readline": "^1.3.0"
+  }
+}
